@@ -10,8 +10,8 @@ author_profile: true
 I am passionate about teaching and happy to spend time with students. You can find my Teaching Portfolio [here](/files/TeachingPortfolio_ShuFu.pdf).
 
 ## Shanghai Jiao Tong University
-- **Introduction to American Politics** (Undergraduate, in Chinese) ▹ [syllabus](/files/美国政府与政治_课程大纲_付舒.pdf) [1st-class slides](/files/AP_课程导论.pdf)
-- **Causal Inference** (Graduate, in Chinese) ▹ [syllabus](/files/因果推断_课程大纲_付舒.pdf) [1st-class slides](/files/CI_课程导论.pdf)
+- **Introduction to American Politics** (Undergraduate, in Chinese) ▹ [syllabus](/files/美国政府与政治_课程大纲_付舒.pdf) ▹ [1st-class slides](/files/AP_课程导论.pdf)
+- **Causal Inference** (Graduate, in Chinese) ▹ [syllabus](/files/因果推断_课程大纲_付舒.pdf) ▹ [1st-class slides](/files/CI_课程导论.pdf)
 
 ## The University of Chicago
 - **American Elections: A Scientific Approach** (Spring 2023) ▹ [syllabus](/files/AmericanElections_syllabus.pdf)
