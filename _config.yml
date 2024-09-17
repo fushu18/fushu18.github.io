@@ -22,7 +22,7 @@ repository               : "fushu18/fushu18.github.io"
 author:
   # Biographic information
   avatar           : "付舒2023ss.jpg"
-  name             : "Shu Fu 付 舒"
+  name             : "Shu Fu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, SJTU"
   location         : #"Shanghai"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3014-5038"
   semantic         : # URL
   pubmed           : #"https://scholar.google.com/citations?user=yuQsPukAAAAJ&hl=en"
   researchgate     : # URL
