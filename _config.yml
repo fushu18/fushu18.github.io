@@ -25,7 +25,7 @@ author:
   name             : "Shu Fu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, SJTU"
-  location         : "Shanghai"
+  location         : #"Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "fushu@sjtu.edu.cn" 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://scholar.google.com/citations?user=yuQsPukAAAAJ&hl=en"
+  pubmed           : #"https://scholar.google.com/citations?user=yuQsPukAAAAJ&hl=en"
   researchgate     : # URL
 
   # Repositories and software development
