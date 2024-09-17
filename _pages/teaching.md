@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 I am passionate about teaching and happy to spend time with students. I believe that a teacher--who transmits knowledge, facilitates study,
-and dispels confusion--is an essential part of the academic community and the foundation for knowledge inquiry. You can find my Teaching Portfolio [here](/files/TeachingPortfolio_ShuFu.pdf).
+and dispels confusion--is an essential part of the academic community and the foundation for knowledge inquiry. You can find my Teaching Philosophy [here](/files/TeachingPortfolio_ShuFu.pdf).
 
 ## Shanghai Jiao Tong University
 - **Introduction to American Politics** (Undergraduate, in Chinese) ▹ [syllabus](/files/美国政府与政治_课程大纲_付舒.pdf) ▹ [1st-class slides](/files/AP_课程导论.pdf)
