@@ -15,4 +15,4 @@ To date, my work has appeared or is forthcoming in _Journal of Politics_, _World
 
 Prior to Shanghai, I was a Teaching Fellow in the Department of Political Science and the College at the University of Chicago. I received my Ph.D. in Political Science at the University of Chicago in 2021, and earned a B.A. and an M.A. from the Department of International Relations at Tsinghua University.
 
-
+Feel free to contact me at [fushu@sjtu.edu.cn](mailto:fushu@sjtu.edu.cn) with any questions about my research.
