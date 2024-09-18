@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Shu Fu"
 author_profile: true
 redirect_from: 
   - /about/
