@@ -10,6 +10,7 @@ author_profile: true
 ## Publications
 
 Minju Kim and __Shu Fu__. Forthcoming. "Bringing Home the Bacon: Politician Ambassadors and Home State Trade." _World Politics_. 
+
 ▹ [[PDF](/files/research/KimFu2025WP.pdf)] [[Replication Data and Code](https://www.dropbox.com/scl/fo/zr6gvve1k51io4v58omem/AEYiVwGv3y9KPdWXGWbky2k?rlkey=2gegru1150rugzy942a97ynml&dl=0)] 
 <details><summary>Abstract</summary>
 <p>
@@ -18,6 +19,7 @@ Ambassadors promote domestic exports to a host country and represent the interes
 </details><br />
 
 __Shu Fu__ and William G. Howell. 2023. "The Filibuster and Legislative Discussion."_Journal of Politics_ 85(4): 1575-1580. 
+
 ▹ [[PDF](/files/research/FuHowell2023JoP_Filibuster.pdf)] [[Publisher Site](https://www.journals.uchicago.edu/doi/10.1086/724969)] [[Replication Data and Code](https://www.dropbox.com/scl/fo/l78puelgnsfugkpvkx2ur/h?rlkey=afeabomvshvklc7c9ymca1zk6&dl=0)] 
 <details><summary>Abstract</summary>
 <p>
@@ -25,8 +27,8 @@ We investigate whether the filibuster stimulates public debate and discussion wi
 </p>
 </details><br />
 
-
 __Shu Fu__. 2023. "Particularism or Policy? When Distributive Outlays Flow to the President’s Core Supporters."" _Political Research Quarterly_ 67 (3): 1134-1150. 
+
 ▹ [[PDF](/files/research/Fu2023PRQ_ParticularismOrPolicy_wAppendix.pdf)] [[Publisher Site](https://journals.sagepub.com/doi/abs/10.1177/10659129221128254)] [[Replication Data and Code](https://www.dropbox.com/scl/fo/cjb95p2z9lcauvd08xyp4/h?rlkey=hmraj6fv8y5z5cf27srecqgxo&dl=0)] 
 <details><summary>Abstract</summary>
 <p>
@@ -35,6 +37,7 @@ The literature on distributive politics reveals that presidents regularly influe
 </details><br />
 
 __Shu Fu__ and Meg Savel. 2020. "Policy without Partisanship: The Direct Appeals of First Ladies."" _Presidential Studies Quarterly_ 50 (4): 736-761. 
+
 ▹ [[PDF](/files/research/FuSavel2020PSQ.pdf)] [[Publisher Site](https://onlinelibrary.wiley.com/doi/abs/10.1111/psq.12678)] [[Replication Data and Code](https://www.dropbox.com/scl/fo/j7z7lmcnvqikzc7ljjrpz/AArqqinlh9edeCC_pt6Bc3E?rlkey=vl4dp6up33jbgfrrlv45y8gpp&dl=0)] 
 <details><summary>Abstract</summary>
 <p>
@@ -43,6 +46,7 @@ Presidents make public appeals on behalf of their policy priorities, but they ar
 </details><br />
 
 __Shu Fu__ and William G. Howell. 2020. "The Behavioral Consequences of Public Appeals: Evidence on Campaign Fundraising from the 2018 Congressional Elections." _Presidential Studies Quarterly_ 50 (2): 325-347. 
+
 ▹ [[PDF](/files/research/FuHowell2020PSQ.pdf)] [[Publisher Site](https://onlinelibrary.wiley.com/doi/full/10.1111/psq.12645)] [[Replication Data and Code](https://www.dropbox.com/scl/fo/ojg1s2cznvy30ks0wtw1n/AIzVwk-deeNklv-p4_TdlzY?rlkey=3xh3u7g1fj03vvs2ighcc8m0s&dl=0)] 
 <details><summary>Abstract</summary>
 <p>
