@@ -1,4 +1,4 @@
- ---
+---
 layout: archive
 title: "Research"
 permalink: /publications/
