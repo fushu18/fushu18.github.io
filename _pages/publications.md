@@ -1,4 +1,4 @@
----
+ ---
 layout: archive
 title: "Research"
 permalink: /publications/
@@ -16,7 +16,7 @@ Ambassadors promote domestic exports to a host country and represent the interes
 </p>
 </details><br />
 
-__Shu Fu__ and William G. Howell. 2023. "The Filibuster and Legislative Discussion."_Journal of Politics_ 85(4): 1575-1580. ▹ [pdf](/files/research/FuHowell2023JoP_Filibuster.pdf) ▹ [publisher site](https://www.journals.uchicago.edu/doi/10.1086/724969) ▹ [replication data and code](https://www.dropbox.com/scl/fo/l78puelgnsfugkpvkx2ur/h?rlkey=afeabomvshvklc7c9ymca1zk6&dl=0)
+__Shu Fu__ and William G. Howell. 2023. "The Filibuster and Legislative Discussion." _Journal of Politics_ 85(4): 1575-1580. ▹ [pdf](/files/research/FuHowell2023JoP_Filibuster.pdf) ▹ [publisher site](https://www.journals.uchicago.edu/doi/10.1086/724969) ▹ [replication data and code](https://www.dropbox.com/scl/fo/l78puelgnsfugkpvkx2ur/h?rlkey=afeabomvshvklc7c9ymca1zk6&dl=0)
 <details><summary>Abstract</summary>
 <p>
 We investigate whether the filibuster stimulates public debate and discussion within Congress, as its advocates argue, or whether, instead, it discourages legislators from devoting time and attention to bills they know will not pass, as its critics attest. To do so, we exploit multiple sources of variation in the filibuster, measures of legislative discussion, and identification strategies. In the preponderance of analyses, we observe null effects. Where significant differences are observed, they nearly always suggest that a strengthening (weakening) of the filibuster coincides with a reduction (increase) in the volume of floor speeches or time devoted to legislative affairs. Whatever benefits the filibuster may confer, they do not appear to include enhanced discussion on the floors of Congress.
@@ -54,7 +54,7 @@ Whereas the preponderance of studies on public appeals evaluates their impacts o
 
 "Community Health Centers and Divide-the-Dollar Politics," with Nuannuan Xiang.
 
-"Going Home: How Chinese Scholars Decided to Go back to China from the US, 1940-1958," with Xingchen Lan and Junyan Jiang. 
+"Going Home: How Chinese Scholars Decided to Go back to China from the US, 1940--1958," with Xingchen Lan and Junyan Jiang. 
 
 《谁在支持特朗普？实证分析美国民粹主义》（在《国际政治科学》修改再提交）▹ [pdf](/files/research/特朗普与美国民粹主义_付舒.pdf)
 
