@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications
 
-Anthony Fowler and __Shu Fu__. Forthcoming. "Do Primary Elections Exacerbate Congressional Polarization?" _Journal of Politics_) ▹ [pdf](/files/research/FowlerFu_PrimariesPolarization.pdf) ▹ [replication data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TVQCVD)
+Anthony Fowler and __Shu Fu__. Forthcoming. "Do Primary Elections Exacerbate Congressional Polarization?" _Journal of Politics_) ▹ [pdf](/files/research/FowlerFu2026JOP_PrimariesPolarization.pdf) ▹ [replication data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TVQCVD)
 <details><summary>Abstract</summary>
 <p>
 Do primary election incentives cause elected officials to take more extreme or partisan positions? We study this question for members of the U.S. Congress by leveraging variation in primary election dates across states. Implementing differences-in-differences designs that account for idiosyncratic differences between each member in each Congress and each bill by party, we test whether members vote differently before or after their state’s primary election date. Members of Congress cast more ideologically extreme votes before they have secured their party’s nomination, but the substantive magnitude of this effect is small, explaining approximately one percent of congressional polarization. We further find that the polarizing effect of primary elections is greater in the Senate, smaller on party-priority legislation, greater for more moderate members; and smaller in states utilizing nonpartisan primaries.
