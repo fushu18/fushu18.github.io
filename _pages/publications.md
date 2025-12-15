@@ -9,7 +9,14 @@ author_profile: true
 
 ## Publications
 
-Minju Kim and __Shu Fu__. Forthcoming. "Bringing Home the Bacon: Politician Ambassadors and Home State Trade." _World Politics_. ▹ [pdf](/files/research/KimFu2025WP.pdf) ▹ [replication data and code](https://www.dropbox.com/scl/fo/zr6gvve1k51io4v58omem/AEYiVwGv3y9KPdWXGWbky2k?rlkey=2gegru1150rugzy942a97ynml&dl=0)
+Anthony Fowler and __Shu Fu__. Forthcoming. "Do Primary Elections Exacerbate Congressional Polarization?" _Journal of Politics_) ▹ [pdf](/files/research/FowlerFu_PrimariesPolarization.pdf) ▹ [replication data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TVQCVD)
+<details><summary>Abstract</summary>
+<p>
+Do primary election incentives cause elected officials to take more extreme or partisan positions? We study this question for members of the U.S. Congress by leveraging variation in primary election dates across states. Implementing differences-in-differences designs that account for idiosyncratic differences between each member in each Congress and each bill by party, we test whether members vote differently before or after their state’s primary election date. Members of Congress cast more ideologically extreme votes before they have secured their party’s nomination, but the substantive magnitude of this effect is small, explaining approximately one percent of congressional polarization. We further find that the polarizing effect of primary elections is greater in the Senate, smaller on party-priority legislation, greater for more moderate members; and smaller in states utilizing nonpartisan primaries.
+</p>
+</details><br />
+
+Minju Kim and __Shu Fu__. 2025. "Bringing Home the Bacon: Politician Ambassadors and Home State Trade." _World Politics_. ▹ [pdf](/files/research/KimFu2025WP.pdf) ▹ [replication data and code](https://www.dropbox.com/scl/fo/zr6gvve1k51io4v58omem/AEYiVwGv3y9KPdWXGWbky2k?rlkey=2gegru1150rugzy942a97ynml&dl=0)
 <details><summary>Abstract</summary>
 <p>
 Ambassadors promote domestic exports to a host country and represent the interests of their home country at large. However, are trade benefits equally distributed domestically? In the United States, a substantial number of ambassadors are former governors or legislators ("politician ambassadors"). We argue that politician ambassadors are particularly equipped with knowledge and incentives to promote exports from their home states to host countries. Leveraging the biographic information of 164 ambassadors and US state-level exports to 30 major export destinations from 2002 to 2020, we find that the home states of politician ambassadors, compared to other states, on average enjoy a 10 percentage point increase in exports to host countries. The home-state effect is particularly apparent in countries where the US exports the most in dollar values, and in industries that export final goods. The past career path and future career aspirations of ambassadors can shape how the benefits of diplomacy are distributed domestically.
@@ -44,9 +51,20 @@ Whereas the preponderance of studies on public appeals evaluates their impacts o
 </p>
 </details><br />
 
+## Publications in Chinese
+
+付舒：《“美国优先”长期化：民粹主义外交的民意基础》，《外交评论》，2025年第6期，第66—91页。
+
+付舒：《解构“深层政府”：美国涉外官僚机构与人事任命》，《世界经济与政治》，2025年第9期，第46—75页。▹ [pdf](/files/research/解构“深层政府”_美国涉外官僚机构与人事任命_付舒.pdf)
+
+付舒：《谁在支持特朗普？实证分析美国民粹主义》《国际政治科学》，2024年第4期，第73—107页。▹ [pdf](/files/research/谁在支持特朗普_实证分析美国民粹主义_付舒.pdf)
+
+
+
 ## Working Papers
 
-"Do Primary Elections Exacerbate Congressional Polarization?" with Anthony Fowler. (Review and Resubmit at _Journal of Politics_) ▹ [pdf](/files/research/FowlerFu_PrimariesPolarization.pdf)
+"Migrating Minds: State-Sponsored Mobilization and Return of US-Trained
+Chinese Scientists During Early Cold War." with Junyan Jiang and Xingchen Lan. ▹ [pdf](/files/research/FLJ_MigratingMinds_2025Nov.pdf)
 
 "Moderates on Capitol Hill: Analyzing the Volume, Tenor, and Topics of House Floor Speeches, 1985--2016." ▹ [pdf](/files/research/Moderates_Draft2.pdf)
 
@@ -54,13 +72,8 @@ Whereas the preponderance of studies on public appeals evaluates their impacts o
 
 "Community Health Centers and Divide-the-Dollar Politics," with Nuannuan Xiang.
 
-"Going Home: How Chinese Scholars Decided to Go back to China from the US, 1940--1958," with Xingchen Lan and Junyan Jiang. 
-
-《谁在支持特朗普？实证分析美国民粹主义》（在《国际政治科学》修改再提交）▹ [pdf](/files/research/特朗普与美国民粹主义_付舒.pdf)
-
 《问责与选拔：美国选举政治的逻辑谬误》， 付舒、罗兆天
 
-《美国总统与官僚制度互动的历史变迁》
 
 ## Theses at Tsinghua 
 
