@@ -53,7 +53,7 @@ Whereas the preponderance of studies on public appeals evaluates their impacts o
 
 ## Publications in Chinese
 
-付舒：《“美国优先”长期化：民粹主义外交的民意基础》，《外交评论》，2025年第6期，第66—91页。
+付舒：《“美国优先”长期化：民粹主义外交的民意基础》，《外交评论》，2025年第6期，第66—91页。▹ [pdf](/files/research/“美国优先”长期化：民粹主义外交的民意基础_付舒.pdf)
 
 付舒：《解构“深层政府”：美国涉外官僚机构与人事任命》，《世界经济与政治》，2025年第9期，第46—75页。▹ [pdf](/files/research/解构“深层政府”_美国涉外官僚机构与人事任命_付舒.pdf)
 
