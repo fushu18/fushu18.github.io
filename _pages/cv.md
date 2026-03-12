@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV in [English Version](/files/CV_ShuFu.pdf) or in [Chinese Version](/files/付舒简历2024年9月.pdf).
+You can download my CV in [English Version](/files/CV_ShuFu.pdf) or in [Chinese Version](/files/付舒简历2026年1月.pdf).
 

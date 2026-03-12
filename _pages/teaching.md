@@ -20,7 +20,10 @@ and dispels confusion--is an essential part of the academic community and the fo
 - **Social Science Inquiry II** (Winters 2020, 2022, 2023) ▹ [syllabus](/files/SSI_II_syllabus.pdf)
 - **Social Science Inquiry III** (Spring 2023) ▹ [syllabus](/files/SSI_III_syllabus.pdf)
 
-## Other
+## Others
+**AI + Gender Data Lab Capacity Building Programme in Rwanda** (Kigali, Rwanda, 2025)
+- Three-day Workshop on Artificial Intelligent ▹ [slides](/files/WorkshopOutline2025.pdf)
+
 **A Gender Data Lab Capacity Building Programme in Rwanda** (Bugesera, Rwanda, 2024)
 - Three-day Workshop on Data Analysis and Visualization ▹ [slides](/files/Day1Session1_Outline.pdf)
 
